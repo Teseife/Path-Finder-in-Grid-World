@@ -1,0 +1,15 @@
+BFS:
+Path Cost:87.0
+Nodes expanded: 2041
+
+DFS:
+Path Cost:842.0
+Nodes expanded: 1250
+
+GBFS:
+Path Cost:94.0
+Nodes expanded: 103
+
+A*:
+Path Cost:85.0
+Nodes expanded: 1796
